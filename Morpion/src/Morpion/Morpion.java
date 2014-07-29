@@ -5,7 +5,7 @@ import java.util.Random;
 
 class Joueur
 {
-    // son pseudo
+    // le pseudo du joueur
     public String pseudo;
     // son symbole
     public String symbole;

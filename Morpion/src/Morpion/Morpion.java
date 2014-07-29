@@ -5,7 +5,7 @@ import java.util.Random;
 
 class Joueur
 {
-    // son pseudo
+    // son pseudo à lui
     public String pseudo;
     // son symbole
     public String symbole;
@@ -15,7 +15,7 @@ class Joueur
 
 class Grille
 {
-    // la grille
+    // la belle grille
     public int[][] grille ;
     // les joueurs
     public Joueur[] joueurs ;
